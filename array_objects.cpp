@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-using names pace std;
+using namespace std;
 class Student
 {
 string name;
